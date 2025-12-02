@@ -9,7 +9,7 @@ var RGBChange = function() {
 /* scroll to top */
 
 $(document).ready(function () {
-  /*// DEV TEST: log when scrollUp is initialized (dev check)*/
+  // MERGE TEST:Testing merge  (dev check)
   console.log('scrollUp plugin initialized (DEV test)');
 
   $(function () {
