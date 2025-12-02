@@ -1,4 +1,4 @@
-/* price range - test change for staging branch */
+/* price range - test change for DEV branch */
 
 $('#sl2').slider();
 
@@ -9,8 +9,8 @@ var RGBChange = function() {
 /* scroll to top */
 
 $(document).ready(function () {
-  // TEST: log when scrollUp is initialized (staging check)
-  console.log('scrollUp plugin initialized (stg test)');
+  // DEV TEST: log when scrollUp is initialized (dev check)
+  console.log('scrollUp plugin initialized (DEV test)');
 
   $(function () {
     $.scrollUp({
